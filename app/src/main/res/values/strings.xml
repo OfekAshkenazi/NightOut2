@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NightOut2</string>
+    <string name="login_textview_text">Please Sign In</string>
+    <string name="login_button_text">LOGIN</string>
+</resources>
